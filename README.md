@@ -50,7 +50,7 @@ To modify the number of particles and grid size, modify the global parameters in
 ## Collaborators
 Austin Miles - gizmo1479\
 Helen Huang - helen-huang9\
-Mande He - 12345Mandy\
+Mandy He - 12345Mandy\
 Tianran Zhang - zhang-tianran
 
 ## Reference
